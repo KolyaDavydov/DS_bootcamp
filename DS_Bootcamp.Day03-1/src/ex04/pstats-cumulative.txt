@@ -1,0 +1,14 @@
+('Total Revenue', '227,583,000', '211,915,000', '198,270,000', '168,088,000', '143,015,000')
+         226179 function calls (223790 primitive calls) in 0.853 seconds
+
+   Ordered by: cumulative time
+   List reduced from 745 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.853    0.853 profile:0(main())
+      3/1    0.000    0.000    0.853    0.853 :0(exec)
+        1    0.000    0.000    0.853    0.853 <string>:1(<module>)
+        1    0.000    0.000    0.853    0.853 financial_enhanced.py:9(main)
+        1    0.000    0.000    0.376    0.376 /home/almetate/DS_bootcamp/DS_Bootcamp.Day03-1/src/ex00/almetate/lib/python3.8/site-packages/bs4/__init__.py:122(__init__)
+
+
